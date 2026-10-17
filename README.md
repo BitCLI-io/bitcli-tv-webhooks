@@ -1,8 +1,16 @@
-# ⚡ TradingView to Telegram Webhook Gateway | BitCLI
+# ⚡ Hosted TradingView to Telegram Webhook Gateway | BitCLI
+### Zero-Setup • No VPS • No Coding Required • Cloud Managed
 
+[![No Server Required](https://img.shields.io/badge/Server-Zero_Setup_(No_VPS)-10b981?style=for-the-badge)](#)
 [![TradingView](https://img.shields.io/badge/TradingView-PineScript_v5-2962FF?style=for-the-badge&logo=tradingview)](https://www.tradingview.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-Ultra_Low_Latency-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/bitclibot)
-[![BitCLI](https://img.shields.io/badge/Powered_by-BitCLI_Engine-10b981?style=for-the-badge)](https://bitcli.io)
+[![Telegram](https://img.shields.io/badge/Telegram-Instant_Relay-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/bitclibot)
+
+> 🛑 **Stop wasting time hosting your own Flask/Node.js servers, paying for VPS, and configuring ngrok.**  
+> BitCLI provides an institutional-grade, **cloud-hosted webhook relay** that routes your Pine Script alerts directly into Telegram private chats, VIP channels, or groups in **<15ms**.
+
+### 💡 Why BitCLI instead of self-hosted scripts?
+- ❌ **Old Way:** Rent a Linux VPS ($60/yr), configure Docker, renew SSL certificates, handle bot crashes.
+- ✅ **BitCLI Way:** Open [@bitclibot](https://t.me/bitclibot), generate your secret URL in 1 tap, paste into TradingView. Zero maintenance.
 
 Ultra-low latency bridge between TradingView Pine Script alerts and Telegram (Private chats, VIP channels, and Groups).
 
