@@ -12,10 +12,6 @@
 - ❌ **Old Way:** Rent a Linux VPS ($60/yr), configure Docker, renew SSL certificates, handle bot crashes.
 - ✅ **BitCLI Way:** Open [@bitclibot](https://t.me/bitclibot), generate your secret URL in 1 tap, paste into TradingView. Zero maintenance.
 
-Ultra-low latency bridge between TradingView Pine Script alerts and Telegram (Private chats, VIP channels, and Groups).
-
-Delivered in **<15ms** via Nginx Lua edge caching, Redis Streams, and a high-throughput async processing pipeline.
-
 ---
 
 ## 🚀 Quick Setup (30 Seconds)
