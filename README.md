@@ -148,4 +148,3 @@ if ta.change(direction) > 0
   <b>Built for quant traders by BitCLI</b><br>
   Docs: <a href="https://docs.bitcli.io/webhooks">docs.bitcli.io/webhooks</a> | Support: <a href="mailto:support@bitcli.io">support@bitcli.io</a>
 </div>
-```
